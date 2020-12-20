@@ -1,10 +1,8 @@
 title: Muthu Kumaran Manoharan 
-  #logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+   
   <br><br>
   <a href="https://www.linkedin.com/in/muthu-kumaran-manoharan/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: bulma-clean-theme
