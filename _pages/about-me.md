@@ -2,7 +2,7 @@
 permalink: /about-me/
 title: "About Me"
 header:
-  overlay_color: "#000"
+  overlay_color: "#5e616c"
 toc: true
 ---
 
@@ -13,10 +13,9 @@ Hey, I'm Muthu.  I am a Master student at the University of Florida. My interest
 
 ## Education
 
-* ### Master of Computer Science
-##### University of Florida 
-##### August 2019 - Present
-
-* ### Bachelor of Engineering, Electronics and Communication Engineering
-#### Anna University (India)
-#### July 2011 - April 2015
+* ### Master of Science in Computer Science
+   **University of Florida** <br />
+   **August 2019 - Present** 
+* ### Bachelor of Engineering in Electronics and Communication Engineering
+  **Anna University (India)** <br />
+  **July 2011 - April 2015**
