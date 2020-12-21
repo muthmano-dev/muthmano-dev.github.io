@@ -8,7 +8,7 @@ toc: true
 
 ## About Me
 
-Hey, I'm Muthu.  I am a Master student at the University of Florida. I have been interested in programming, hacking and hacking. My interested resolves solving network issues, creating distributed applications, testing their security and occasional hacking. In my free time I participate in CTFs and doing HackTheBox Challs.
+Hey, I'm Muthu.  I am a Master student at the University of Florida. My interest revolves around programming, hacking and gaming. I like creating distributed applications with overlay networks, testing their security and occasional hacking. I like doing CTFs, doing HackTheBox Challs, reading books and cycling. I am always curious about software workings so I would often decompile them and see what makes them tick.  
 
 
 ## Education
